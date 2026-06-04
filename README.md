@@ -1,3 +1,6 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Developer&fontSize=50&fontColor=fff&animation=fadeIn)
+
+
 # Hii there👋, I'm Sai ganesh
 
 <div align="center">
