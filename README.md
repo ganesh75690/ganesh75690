@@ -1,5 +1,9 @@
 # Hii there👋, I'm Sai ganesh
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 
 ## 🌐 Let's connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sai_ganesh1501) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/b-sai-ganesh-949a45288/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/bsaiganesh2023/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ganesh75690) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bsaiganesh2023@gmail.com ) 
